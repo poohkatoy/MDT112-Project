@@ -73,13 +73,15 @@ Eye Contact
 |     Name               |     Nickname      |         NO.        |    Github Profile Link          |  
 |------------------------|:-----------------:|-------------------:|--------------------------------:|
 | Sawarin Wannachawee    | Katoy             | 62120501079        | https://github.com/poohkatoy    |
-| col 2 is      | centered      |   $12 |
+| Orawan Onsang          | Mongkorn          |   62120501011      | https://github.com/MK-max       |
 | zebra stripes | are neat      |    $1 |
 
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
+Detail project
 
+เป็นเครื่องตรวจวัดสายตา โดยมีสเนลล์เลนชาร์ต(Snellen's chart) เป็นต้นแบบ เนื่องจากรูปแบบของชาร์ตนั้นมีการจัดเรียงเป็นรูปแบบเดิมๆ
+ซึ่งผู้ที่ตรวจวัดสายตาบ่อยๆ และไม่ต้องการใส่แว่น ก็มักจะจำรูปแบบของตัวเลข ทำให้ผูตรวจคิดไปว่าสายตาปกติดี กลุ่มของพวกเราจึง
+อยากออกแบบโดยการ random ตัวเลขมาให้ผู้ที่ต้องการตรวจอ่านตัวเลขออกมา ทั้งนี้จะมีฟังก์ชันอื่นๆอีก เช่น การตรวจวัดตาบอดสี 
+การตรวจวัดอาการแพ้แสง การวัดสายตาเอียง เป็นต้นการ
 Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
