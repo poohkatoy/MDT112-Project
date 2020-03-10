@@ -68,13 +68,13 @@ int main() {
 
 ## Table
 
-Eye Contact
+MDT112-Project Eye Contact 
 
 |     Name               |     Nickname      |         NO.        |    Github Profile Link          |  
 |------------------------|:-----------------:|-------------------:|--------------------------------:|
 | Sawarin Wannachawee    | Katoy             | 62120501079        | https://github.com/poohkatoy    |
 | col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Mananchaya Srisai      | Nay               |    62120501064     | https://github.com/mananssnay   |  
 
 There must be at least 3 dashes separating each header cell.
 The outer pipes (|) are optional, and you don't need to make the 
